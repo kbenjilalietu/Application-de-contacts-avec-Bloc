@@ -26,3 +26,8 @@ Classe NewsEvent :
 Classe NewsState : 
 
 ![image](https://user-images.githubusercontent.com/81255636/173246726-ce959595-d29e-444a-9b88-fce7bdfd5fc6.png)
+
+
+Classe NewsRpository :
+
+![image](https://user-images.githubusercontent.com/81255636/173247731-c69858ba-48a2-4c9c-8534-4e6ed66b9508.png)
